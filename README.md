@@ -1,5 +1,5 @@
-<H2>Hi 👋, I'm Riyadi</H2><br>
-<br>An Informatics Student at Mulawarman University
+<H2>Hi 👋, I'm Rahmat Riyadi</H2><br>
+An Informatics Student at Mulawarman University
 
 
 ## 🌐 Socials:

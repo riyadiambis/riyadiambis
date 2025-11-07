@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Riyadi<br>An Informatics Student at Mulawarman University
-Atleast one day, one commit.
+Hi 👋, I'm Riyadi<br>An Informatics Student at Mulawarman University<br>
+Atleast one commit a day
 
 
 ## 🌐 Socials:

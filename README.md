@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/riyadi_ofisharu"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://instagram.com/riyadi_ofisharu"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://youtube.com/@riyadi_ofisharu"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
+  <a href="https://youtube.com/@riyadi_ofisharuu"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
   <a href="mailto:rahmatriyadiambis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
@@ -27,29 +27,30 @@ I'm an Informatics student at Universitas Mulawarman with a strong passion for A
 ## 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,php,mysql,tensorflow,sklearn,nextjs,git,github,vscode,flutter,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,php,mysql,tensorflow,sklearn,nextjs,git,github,vscode,flutter&theme=dark" />
+  <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28" />
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyadiambis&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=riyadiambis&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📊 Most Used Languages (auto, based on commit history)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadiambis&layout=pie&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=riyadiambis&layout=pie&theme=tokyonight&hide_border=true" />
 </p>
 
-> Card ini dihitung otomatis oleh github-readme-stats berdasarkan bahasa dari repo publik kamu, jadi persentasenya akan berubah sendiri seiring kamu commit. Kalau mau termasuk kontribusi di repo private, tambahkan parameter `&count_private=true` di URL di atas (butuh setting izin private contribution seperti notifikasi di screenshot profil kamu).
+> Card ini dihitung otomatis berdasarkan bahasa dari repo publik kamu, jadi persentasenya akan berubah sendiri seiring kamu commit. Kalau mau termasuk kontribusi di repo private, tambahkan parameter `&count_private=true` di URL di atas (butuh setting izin private contribution seperti notifikasi di screenshot profil kamu).
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=riyadiambis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyadiambis&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=riyadiambis&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---

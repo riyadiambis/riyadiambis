@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahmatriyadi212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/riyadi_ofisharu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:rahmatriyadiambis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/riyadi_ofisharu"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://instagram.com/riyadi_ofisharu"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://youtube.com/@riyadi_ofisharu"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
+  <a href="mailto:rahmatriyadiambis@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
 
 I'm an Informatics student at Universitas Mulawarman with a strong passion for Artificial Intelligence, Machine Learning, and Backend Development. Currently focusing on building intelligent solutions through computer vision and data engineering, with a long-term goal of becoming an AI Researcher and contributing to education and agriculture in Indonesia.
@@ -29,24 +30,19 @@ I'm an Informatics student at Universitas Mulawarman with a strong passion for A
   <img src="https://skillicons.dev/icons?i=python,go,php,mysql,tensorflow,sklearn,nextjs,git,github,vscode,flutter,figma&theme=dark" />
 </p>
 
-## 📊 Language Proficiency
-
-| Language | Proficiency |
-|---|---|
-| Python | ![](https://progress-bar.dev/90/?scale=100&title=&width=180&color=58A6FF) |
-| Go | ![](https://progress-bar.dev/60/?scale=100&title=&width=180&color=58A6FF) |
-| PHP | ![](https://progress-bar.dev/55/?scale=100&title=&width=180&color=58A6FF) |
-| SQL | ![](https://progress-bar.dev/75/?scale=100&title=&width=180&color=58A6FF) |
-| Dart (Flutter) | ![](https://progress-bar.dev/65/?scale=100&title=&width=180&color=58A6FF) |
-
-> Sesuaikan angka persentase di atas sesuai penilaian kamu sendiri terhadap penguasaan masing-masing bahasa.
-
 ## 📈 GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyadiambis&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadiambis&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 📊 Most Used Languages (auto, based on commit history)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyadiambis&layout=pie&theme=tokyonight&hide_border=true" />
+</p>
+
+> Card ini dihitung otomatis oleh github-readme-stats berdasarkan bahasa dari repo publik kamu, jadi persentasenya akan berubah sendiri seiring kamu commit. Kalau mau termasuk kontribusi di repo private, tambahkan parameter `&count_private=true` di URL di atas (butuh setting izin private contribution seperti notifikasi di screenshot profil kamu).
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=riyadiambis&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

@@ -30,17 +30,10 @@ I'm an Informatics student at Universitas Mulawarman with a strong passion for A
   <img src="https://skillicons.dev/icons?i=python,go,php,mysql,tensorflow,sklearn,nextjs,git,github,vscode,flutter,figma&theme=dark" />
 </p>
 
-
 ## 📊 Most Used Languages (auto, based on commit history)
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=riyadiambis&layout=pie&theme=tokyonight&hide_border=true" />
-</p>
-
-> Card ini dihitung otomatis berdasarkan bahasa dari repo publik kamu, jadi persentasenya akan berubah sendiri seiring kamu commit. Kalau mau termasuk kontribusi di repo private, tambahkan parameter `&count_private=true` di URL di atas (butuh setting izin private contribution seperti notifikasi di screenshot profil kamu).
-
-<p align="left">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=riyadiambis&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---

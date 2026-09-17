@@ -16,7 +16,7 @@ I'm an Informatics student at Universitas Mulawarman with a strong passion for A
 ## 👨‍💻 About Me
 
 - 🏫 Studying **Informatics** (Cohort 2024) at Universitas Mulawarman, GPA 3.79
-- 💼 Roles: **Google Student Ambassador 2026** and **Practicum Assistant** (Basic Algorithms & Software Engineering)
+- 💼 Roles: **Google Student Ambassador 2026** and **Practicum Assistant** (Basic Algorithms 2025 & Software Engineering 2026)
 - 🌱 Currently working on:
   - **ZiaBot**: a Next.js localized web prototype utilizing Web Speech APIs
   - **Nutrition Label Parser**: an image-recognition app for Coding Camp 2026 (nutrition label detection + multimodal OCR)

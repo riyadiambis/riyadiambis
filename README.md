@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rahmat Riyadi (riyadi_ofisharu 👋</h1>
+<h1 align="center">Hi there, I'm Rahmat Riyadi or Riyadi 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Google+Student+Ambassador+%2726;Computer+Vision+%26+Data+Research&font=Fira%20Code&center=true&width=500&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />

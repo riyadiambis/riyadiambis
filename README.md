@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-2ea44f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LEARNING-LLM_%7C_RAG_%7C_AGENTS-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GOAL-MASTER'S_IN_JAPAN-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-JAPANESE-red?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## 🎮 Player Card
 
 <p align="center">
-  <img src="assets/player-card.svg" alt="Player card" width="100%" />
+  <img src="assets/player-card.svg" alt="Player card" width="520" />
 </p>
 
 Informatics student who builds intelligent systems with computer vision and data engineering.
@@ -35,7 +35,7 @@ Long-term goal: become an AI researcher and contribute to education and agricult
 - 🔭 Exploring LLM, RAG, and AI agents
 - 🌱 Deepening computer vision (OpenCV, PyTorch)
 - 📱 Shipping mobile apps with Flutter
-- 🇯🇵 Preparing for a Master's degree in Japan
+- 🇯🇵 Studying Japanese
 
 <img src="assets/divider.svg" width="100%" />
 

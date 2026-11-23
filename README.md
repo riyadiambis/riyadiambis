@@ -23,18 +23,9 @@
 
 ## 🎮 Player Card
 
-```text
-╔═════════════════════════════════════════════╗
-║ PLAYER 1  : RAHMAT RIYADI                   ║
-║ CLASS     : AI / CV Engineer (in training)  ║
-║ GUILD     : Universitas Mulawarman          ║
-║ LEVEL     : Informatics '24 | GPA 3.79      ║
-║ TITLES    : Google Student Ambassador 2026  ║
-║             Practicum Assistant (Algo & SE) ║
-║ QUEST     : Master's degree in Japan        ║
-║ SIDE QUEST: Learning Advanced Japanese      ║
-╚═════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="assets/player-card.svg" alt="Player card" width="100%" />
+</p>
 
 Informatics student who builds intelligent systems with computer vision and data engineering.
 Long-term goal: become an AI researcher and contribute to education and agriculture in Indonesia.
@@ -56,70 +47,13 @@ Long-term goal: become an AI researcher and contribute to education and agricult
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Kategori | Stack | Proyek |
+|:--|:--|:--|
+| 🧠 **AI & Data** | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![](https://img.shields.io/badge/CNN-blueviolet?style=flat-square)<br>![](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | [Peta Tambang Kaltim](https://github.com/riyadiambis/peta-tambang-kaltim)<br>[Nutrition Fact Detection CNN](https://github.com/riyadiambis/Nutrition-Fact-Detection-CNN)<br>[Web Karhutla Kaltim](https://github.com/riyadiambis/web-karhutla-kaltim)<br>[Claude Delegator](https://github.com/riyadiambis/claude-delegator) |
+| 🎮 **Game Edukasi** | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>![](https://img.shields.io/badge/Education-ff69b4?style=flat-square) | [Zombaca](https://github.com/riyadiambis/Zombaca)<br>[Slime Lompat Huruf](https://github.com/riyadiambis/Game-Slime-Lompat-Huruf)<br>[Kapibara Cari Huruf](https://github.com/riyadiambis/kapibara-cari-huruf)<br>[Mengenal Huruf](https://github.com/riyadiambis/Mengenal-Huruf-Web) |
+| 📱 **APK / Mobile** | ![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)<br>![](https://img.shields.io/badge/Android-3DDC84?style=flat-square) | [JeliLabel Mobile](https://github.com/riyadiambis/jelilabel-mobile)<br>[Insap App](https://github.com/riyadiambis/Insap-App-Flutter) |
 
-### [🛰️ Peta Tambang Kaltim](https://github.com/riyadiambis/peta-tambang-kaltim)
-
-![](https://img.shields.io/badge/CNN-Sentinel--2-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [🥫 Nutrition Fact Detection CNN](https://github.com/riyadiambis/Nutrition-Fact-Detection-CNN)
-
-![](https://img.shields.io/badge/Computer_Vision-blueviolet?style=flat-square) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🍬 JeliLabel Mobile](https://github.com/riyadiambis/jelilabel-mobile)
-
-![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### [📱 Insap App](https://github.com/riyadiambis/Insap-App-Flutter)
-
-![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Mobile-3DDC84?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🔥 Web Karhutla Kaltim](https://github.com/riyadiambis/web-karhutla-kaltim)
-
-![](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![](https://img.shields.io/badge/Data_Analysis-0A66C2?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔤 EdTech: Belajar Huruf
-
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Education-ff69b4?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [💸 Claude Delegator](https://github.com/riyadiambis/claude-delegator)
-
-![](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square) ![](https://img.shields.io/badge/MIT-green?style=flat-square)
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-### 👉 [More repositories](https://github.com/riyadiambis?tab=repositories)
-
-</td>
-</tr>
-</table>
+👉 [Lihat semua repository](https://github.com/riyadiambis?tab=repositories)
 
 <img src="assets/divider.svg" width="100%" />
 
